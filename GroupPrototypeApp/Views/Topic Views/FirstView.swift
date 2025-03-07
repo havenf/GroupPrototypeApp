@@ -15,11 +15,12 @@ struct AccessibilityNotification {
     }
 }
 
-// MARK: - SwiftUI Example
+// MARK: - SwiftUI Accessible Components
 
-struct FirstView: View {
+// This view contains SwiftUI–based accessibility examples.
+struct AccessibleSwiftUIViewContent: View {
     @State private var zoomAmount: CGFloat = 1.0
-
+    
     var body: some View {
         VStack(spacing: 20) {
             // Header text with an accessibility header trait.
@@ -43,13 +44,13 @@ struct FirstView: View {
             .accessibilityLabel("SwiftUI Announce High Priority Button")
             .accessibility(addTraits: .isButton)
             
-            // Zoomable image using SF Symbol "photo".
+            // Zoomable image using SF Symbol "photo" as a stock image.
             Image(systemName: "photo")
                 .resizable()
                 .frame(width: 200, height: 200)
                 .accessibilityLabel("Zoomable Photo")
                 .scaleEffect(zoomAmount)
-                // The adjustable action automatically makes this element adjustable.
+                // Providing an adjustable action makes this element adjustable.
                 .accessibilityAdjustableAction { direction in
                     switch direction {
                     case .increment:
@@ -77,8 +78,16 @@ struct FirstView: View {
     }
 }
 
-// MARK: - UIKit Example Wrapped in SwiftUI
+// A wrapper view in case you want to extend or add additional styling.
+struct AccessibleSwiftUIView: View {
+    var body: some View {
+        AccessibleSwiftUIViewContent()
+    }
+}
 
+// MARK: - UIKit Accessible Components
+
+// This struct wraps a UIViewController that demonstrates UIKit accessibility.
 struct UIKitViewControllerWrapper: UIViewControllerRepresentable {
     func makeUIViewController(context: Context) -> AccessibleViewController {
         AccessibleViewController()
@@ -89,9 +98,8 @@ struct UIKitViewControllerWrapper: UIViewControllerRepresentable {
     }
 }
 
+// A UIViewController demonstrating UIKit accessibility examples.
 class AccessibleViewController: UIViewController {
-    var isFiltered = false
-
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
@@ -111,6 +119,7 @@ class AccessibleViewController: UIViewController {
         imageView.contentMode = .scaleAspectFill
         imageView.accessibilityLabel = "Red Circle"
         imageView.accessibilityPath = UIBezierPath(ovalIn: imageView.bounds)
+        imageView.isAccessibilityElement = true
         view.addSubview(imageView)
         
         // Zoomable image view demonstrating zoom announcements.
@@ -118,7 +127,7 @@ class AccessibleViewController: UIViewController {
         zoomView.backgroundColor = .lightGray
         zoomView.isAccessibilityElement = true
         zoomView.accessibilityLabel = "Zooming Image View"
-        // Mark as adjustable so swipe up/down triggers zoom actions.
+        // Mark as adjustable so that swipe up/down triggers the increment/decrement.
         zoomView.accessibilityTraits = [.image, .adjustable]
         view.addSubview(zoomView)
     }
@@ -132,11 +141,11 @@ class AccessibleViewController: UIViewController {
     }
 }
 
+// A custom UIScrollView subclass to support zooming with VoiceOver adjustable gestures.
 class ZoomingImageView: UIScrollView, UIScrollViewDelegate {
     let imageView: UIImageView
     
     override init(frame: CGRect) {
-        // Use SF Symbol "photo" as a placeholder for zooming.
         imageView = UIImageView(image: UIImage(systemName: "photo"))
         super.init(frame: frame)
         self.delegate = self
@@ -152,20 +161,38 @@ class ZoomingImageView: UIScrollView, UIScrollViewDelegate {
     }
     
     func viewForZooming(in scrollView: UIScrollView) -> UIView? {
-        imageView
+        return imageView
     }
     
     // These methods are called when VoiceOver swipe up/down is performed on an adjustable element.
     override func accessibilityIncrement() {
         setZoomScale(zoomScale + 0.5, animated: true)
-        let zoomAmount = "\(Int(zoomScale)) x zoom"
-        UIAccessibility.post(notification: .announcement, argument: zoomAmount)
+        let zoomAnnouncement = "\(Int(zoomScale)) x zoom"
+        UIAccessibility.post(notification: .announcement, argument: zoomAnnouncement)
     }
     
     override func accessibilityDecrement() {
         setZoomScale(max(1.0, zoomScale - 0.5), animated: true)
-        let zoomAmount = "\(Int(zoomScale)) x zoom"
-        UIAccessibility.post(notification: .announcement, argument: zoomAmount)
+        let zoomAnnouncement = "\(Int(zoomScale)) x zoom"
+        UIAccessibility.post(notification: .announcement, argument: zoomAnnouncement)
     }
 }
 
+// MARK: - Demo Container View
+
+// This view uses a TabView to switch between the SwiftUI and UIKit examples.
+struct FirstView: View {
+    var body: some View {
+        TabView {
+            AccessibleSwiftUIView()
+                .tabItem {
+                    Label("SwiftUI", systemImage: "swift")
+                }
+            UIKitViewControllerWrapper()
+                .tabItem {
+                    Label("UIKit", systemImage: "square.fill")
+                }
+        }
+        .navigationTitle("Accessible Apps Demo")
+    }
+}
