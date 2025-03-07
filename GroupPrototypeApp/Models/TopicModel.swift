@@ -15,6 +15,10 @@ struct TopicModel {
 struct Topic {
     static let topics: [TopicModel] = [
         TopicModel(
+                title: "Accessible Apps with SwiftUI and UIKit",
+                destination: AnyView(SecondView())
+            ),
+        TopicModel(
                 title: "Accessibility and SwiftUI",
                 destination: AnyView(SecondView())
             ),
