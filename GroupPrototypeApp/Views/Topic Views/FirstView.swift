@@ -11,6 +11,5 @@ import SwiftUI
 struct FirstView: View {
     var body: some View {
         Text("Accessible Apps with SwiftUI and UIKit")
-            .navigationTitle("Accessible Apps with SwiftUI and UIKit")
     }
 }

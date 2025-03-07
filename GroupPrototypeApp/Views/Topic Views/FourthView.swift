@@ -11,6 +11,5 @@ import SwiftUI
 struct FourthView: View {
     var body: some View {
         Text("Dynamic Type")
-            .navigationTitle("Dynamic Type")
     }
 }

@@ -11,6 +11,5 @@ import SwiftUI
 struct ThirdView: View {
     var body: some View {
         Text("Accessible Spatial Experiences")
-            .navigationTitle("Accessible Spatial Experiences")
     }
 }

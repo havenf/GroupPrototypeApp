@@ -11,6 +11,5 @@ import SwiftUI
 struct FifthView: View {
     var body: some View {
         Text("Assistive Access")
-            .navigationTitle("Assistive Access")
     }
 }

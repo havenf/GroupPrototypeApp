@@ -11,6 +11,5 @@ import SwiftUI
 struct SecondView: View {
     var body: some View {
         Text("Accessibility and SwiftUI")
-            .navigationTitle("Accessibility and SwiftUI")
     }
 }

@@ -10,6 +10,5 @@ import SwiftUI
 struct SixthView: View {
     var body: some View {
         Text("Extend Speech Synthesis")
-            .navigationTitle("Extend Speech Synthesis")
     }
 }
