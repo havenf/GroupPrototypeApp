@@ -1,0 +1,72 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/DebugModeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Debug Mode: NO AR AVAILABLE",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "⬇️ Hard Drop",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart Game",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart the game. Set score to zero",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "⬅️",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "🔄",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "➡️",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

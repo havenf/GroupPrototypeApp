@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E8E1765D84075F88BE9C2F673BEA2D3E001590F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E8E1765D84075F88BE9C2F673BEA2D3E001590F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D21BB0E-BF93-490B-9F4B-6262B91B2373",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E8E1765D84075F88BE9C2F673BEA2D3E001590F1" : "GroupPrototypeApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GroupPrototypeApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GroupPrototypeApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/havenf\/GroupPrototypeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E8E1765D84075F88BE9C2F673BEA2D3E001590F1"
+    }
+  ]
+}

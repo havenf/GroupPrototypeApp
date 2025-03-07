@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FourthView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dynamic Type",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 13
+        }
+      }
+    ]
+  },
+  "version": 1
+}

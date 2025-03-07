@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SixthView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Extend Speech Synthesis",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

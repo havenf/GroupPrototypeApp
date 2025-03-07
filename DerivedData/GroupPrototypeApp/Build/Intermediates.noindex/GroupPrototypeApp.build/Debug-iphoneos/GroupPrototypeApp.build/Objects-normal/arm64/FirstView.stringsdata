@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FirstView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Accessible Apps with SwiftUI and UIKit",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 13
+        }
+      }
+    ]
+  },
+  "version": 1
+}

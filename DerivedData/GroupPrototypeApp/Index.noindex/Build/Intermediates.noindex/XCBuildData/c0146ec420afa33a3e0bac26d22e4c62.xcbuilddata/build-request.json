@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0bb19b8c1f51e1cfb58fb754be9e5d4297cf2a7f56c13b61f74d42a4cfaa82a5"
+    },
+    {
+      "guid" : "0bb19b8c1f51e1cfb58fb754be9e5d420d03fb44304e46ec7f79750ee3662531"
+    },
+    {
+      "guid" : "0bb19b8c1f51e1cfb58fb754be9e5d42711bb96e43340c93e7cda8d5ee5ed0d7"
+    }
+  ],
+  "containerPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Products",
+      "pchPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

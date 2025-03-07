@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'GroupPrototypeAppUITests' in project 'GroupPrototypeApp' (no dependencies)
+Target 'GroupPrototypeAppUITests' in project 'GroupPrototypeApp'
+➜ Explicit dependency on target 'GroupPrototypeApp' in project 'GroupPrototypeApp'
+Target 'GroupPrototypeAppUITests' in project 'GroupPrototypeApp'
+➜ Explicit dependency on target 'GroupPrototypeApp' in project 'GroupPrototypeApp'
+Target 'GroupPrototypeAppTests' in project 'GroupPrototypeApp' (no dependencies)
+Target 'GroupPrototypeAppTests' in project 'GroupPrototypeApp'
+➜ Explicit dependency on target 'GroupPrototypeApp' in project 'GroupPrototypeApp'
+Target 'GroupPrototypeAppTests' in project 'GroupPrototypeApp'
+➜ Explicit dependency on target 'GroupPrototypeApp' in project 'GroupPrototypeApp'
+Target 'GroupPrototypeApp' in project 'GroupPrototypeApp' (no dependencies)
+Target 'GroupPrototypeApp' in project 'GroupPrototypeApp' (no dependencies)

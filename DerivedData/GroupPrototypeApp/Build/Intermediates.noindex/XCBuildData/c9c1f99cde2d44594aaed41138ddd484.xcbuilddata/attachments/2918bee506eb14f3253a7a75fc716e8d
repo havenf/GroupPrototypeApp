@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp-master.dia",
+    "emit-module-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp-master.swiftdeps"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/App/GroupPrototypeApp.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GroupPrototypeApp~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Models/TopicModel.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TopicModel~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/MainView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FifthView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FifthView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FirstView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FirstView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FourthView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/FourthView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SecondView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SecondView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SeventhView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SeventhView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SixthView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/SixthView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/DebugModeView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/DebugModeView~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/GameState.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/GameState~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/TetrominoFactory.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/TetrominoFactory~partial.swiftmodule"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/ThirdView.swift" : {
+    "const-values" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.swiftconstvalues",
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.dia",
+    "index-unit-output-path" : "/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.o",
+    "llvm-bc" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.bc",
+    "object" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.o",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView.swiftdeps",
+    "swiftmodule" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/Objects-normal/arm64/ThirdView~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/ThirdView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Score: %lld points",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart Game",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart the game",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

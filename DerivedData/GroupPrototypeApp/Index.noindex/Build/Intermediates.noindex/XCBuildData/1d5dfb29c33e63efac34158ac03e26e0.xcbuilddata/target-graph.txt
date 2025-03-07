@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'GroupPrototypeApp' in project 'GroupPrototypeApp' (no dependencies)
+Target 'GroupPrototypeApp' in project 'GroupPrototypeApp' (no dependencies)

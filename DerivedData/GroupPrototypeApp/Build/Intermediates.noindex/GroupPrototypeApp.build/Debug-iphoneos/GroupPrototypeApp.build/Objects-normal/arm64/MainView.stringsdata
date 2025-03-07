@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/MainView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Topics",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      }
+    ]
+  },
+  "version": 1
+}

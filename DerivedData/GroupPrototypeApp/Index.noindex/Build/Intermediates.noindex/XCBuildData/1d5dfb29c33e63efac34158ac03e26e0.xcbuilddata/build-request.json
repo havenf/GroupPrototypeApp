@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0bb19b8c1f51e1cfb58fb754be9e5d4297cf2a7f56c13b61f74d42a4cfaa82a5"
+    }
+  ],
+  "containerPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Build/Products",
+      "pchPath" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

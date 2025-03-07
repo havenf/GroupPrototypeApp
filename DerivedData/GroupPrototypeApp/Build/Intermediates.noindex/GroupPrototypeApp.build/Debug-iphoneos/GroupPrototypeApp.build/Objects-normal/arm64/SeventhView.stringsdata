@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SeventhView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Getting Started with Writing Tools",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

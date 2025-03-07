@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeAppUITests.build/Objects-normal/arm64/GroupPrototypeAppUITests-master.d",
+    "diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeAppUITests.build/Objects-normal/arm64/GroupPrototypeAppUITests-master.dia",
+    "emit-module-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeAppUITests.build/Objects-normal/arm64/GroupPrototypeAppUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeAppUITests.build/Objects-normal/arm64/GroupPrototypeAppUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeAppUITests.build/Objects-normal/arm64/GroupPrototypeAppUITests-master.swiftdeps"
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeAppUITests/GroupPrototypeAppUITests.swift" : {
+
+  },
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeAppUITests/GroupPrototypeAppUITestsLaunchTests.swift" : {
+
+  }
+}

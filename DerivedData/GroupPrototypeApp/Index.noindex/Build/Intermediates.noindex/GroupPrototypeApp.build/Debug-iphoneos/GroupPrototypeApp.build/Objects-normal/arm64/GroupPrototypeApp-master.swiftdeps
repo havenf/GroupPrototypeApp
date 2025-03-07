@@ -1,0 +1,20 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "40f14f4f2b0c7aa5c1f80c8c8b69b06c7e4e009f836f9364332a40aaedba075b"
+build_start_time: [1741890166, 322483000]
+build_end_time: [1741890166, 605403000]
+inputs:
+  ? "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/DerivedData/GroupPrototypeApp/Index.noindex/Build/Intermediates.noindex/GroupPrototypeApp.build/Debug-iphoneos/GroupPrototypeApp.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1741890163, 171949420]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/App/GroupPrototypeApp.swift": [1741831186, 524189849]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Models/TopicModel.swift": [1741831186, 524593017]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/MainView.swift": [1741831186, 524825809]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FifthView.swift": [1741831186, 524923017]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FirstView.swift": [1741831186, 524985393]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/FourthView.swift": [1741831186, 525047268]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SecondView.swift": [1741831186, 525112268]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SeventhView.swift": [1741831186, 525175351]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/SixthView.swift": [1741831186, 525238060]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/DebugModeView.swift": [1741887627, 473284001]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/GameState.swift": [1741887631, 484960033]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/TetrominoFactory.swift": [1741839082, 708506529]
+  "/Users/sp/Documents/Development/Swift/GroupPrototypeApp/GroupPrototypeApp/Views/Topic Views/ThirdView/ThirdView.swift": [1741889763, 249277543]
