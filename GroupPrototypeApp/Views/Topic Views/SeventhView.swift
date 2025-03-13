@@ -8,8 +8,8 @@
 import SwiftUI
 
 struct SeventhView: View {
-    var body: some View {
-        @State private var text: String = "Once upon a time in a quiet village, there was a mysterious old library. Many said it held books that whispered secrets of the past and future to those who listened carefully. One day, a curious young scholar named Elara discovered a hidden passage behind a dusty shelf, leading to an unknown chamber..."
+        
+    @State private var text: String = "Once upon a time in a quiet village, there was a mysterious old library. Many said it held books that whispered secrets of the past and future to those who listened carefully. One day, a curious young scholar named Elara discovered a hidden passage behind a dusty shelf, leading to an unknown chamber..."
     @State private var isBold: Bool = false
     @State private var isItalic: Bool = false
     @State private var isUnderlined: Bool = false
@@ -64,13 +64,13 @@ struct SeventhView: View {
         return font
     }
         
-        func proofreadText() {
-            isProcessing = true
-            DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
-                text = "[Proofread] " + text
-                isProcessing = false
-            }
+    func proofreadText() {
+        isProcessing = true
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
+            text = "[Proofread] " + text
+            isProcessing = false
         }
+    }
     
     func rewriteText() {
         isProcessing = true
@@ -78,6 +78,5 @@ struct SeventhView: View {
             text = "[Rewritten] " + text
             isProcessing = false
         }
-    }
     }
 }
