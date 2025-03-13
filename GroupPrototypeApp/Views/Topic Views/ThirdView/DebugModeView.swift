@@ -77,7 +77,8 @@ struct DebugModeView:View{
         }
         position = (newX, newY)
         updateGrid()
-        
+        let direction = dx < 0 ? "left" : dx > 0 ? "right" : dy > 0 ? "down" : "stayed"
+            announceGameEvent("Tetromino moved \(direction)")
     }
     func rotateTetromino(){
         let rotatedShape = currentShape.map { (x, y) in
@@ -94,6 +95,8 @@ struct DebugModeView:View{
 
         currentShape = rotatedShape
         updateGrid()
+        announceGameEvent("Tetromino rotated 90 degrees")
+
     }
     func lockTetromino(){
         for (blockX, blockY) in currentShape{
@@ -130,17 +133,21 @@ struct DebugModeView:View{
     func updateScore(_ linesCleared: Int){
         let points = [0,100,300,500,800]
         score += points[min(linesCleared, points.count - 1 )]
+        announceGameEvent("\(linesCleared) lines cleared. Score is now \(score) points.")
+
     }
     func spawnNewTetromino(){
         let tetrominoType = TetrominoType.allCases.randomElement()!
         currentShape = getTetrominoShape(type: tetrominoType)
         position = (x:2, y:0)
+        announceGameEvent("New Tetromino spawned: \(tetronimnoType)")
+
         
         for (blockX, blockY) in currentShape {
                 let checkX = position.x + blockX
                 let checkY = position.y + blockY
                 if checkX >= 0 && checkX < 5 && checkY >= 0 && checkY < 6 && grid[checkY][checkX] {
-                    print("Game Over! Resetting")
+                    announceGameEvent("Game Over! Resetting game.")
                     resetGame()// Handle game over logic (TBD)
                     return
                 }
@@ -186,6 +193,13 @@ struct DebugModeView:View{
         case .s: return [(0,0), (1,0), (0,1), (-1,1)]
         case .z: return [(0,0), (-1,0), (0,1), (1,1)]
         }
+    }
+    
+    func announceGameEvent(_ message: String){
+        DispatchQueue.main.async{
+            UIAccessibility.post(notification: .announcement, argument: message)
+        }
+        
     }
     struct GridView: View {
         let gridView: [[String]]

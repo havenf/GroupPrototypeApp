@@ -6,22 +6,24 @@ import UIKit
 struct ThirdView: View {
     @StateObject var gameState = GameState()
     var body: some View {
-        if ARConfiguration.isSupported {
-            VStack{
-                Text("Score: \(gameState.score)").font(.largeTitle).padding().accessibilityLabel("Score: \(gameState.score) points")
-                ARViewContainer(gameState: gameState).edgesIgnoringSafeArea(.all)
+        //if ARConfiguration.isSupported {
+          //  VStack{
+            //    Text("Score: \(gameState.score)").font(.largeTitle).padding().accessibilityLabel("Score: \(gameState.score) points")
+              //  ARViewContainer(gameState: gameState).edgesIgnoringSafeArea(.all)
                 
-                Button("Restart Game"){
-                    gameState.resetGame()
-                }
-                .padding()
-                .accessibilityLabel("Restart the game")
-            }
+                //Button("Restart Game"){
+                  //  gameState.resetGame()
+                //}
+                //.padding()
+                //.accessibilityLabel("Restart the game")
+                
+                
+            //}
             
-        } else {
+        //} else {
             DebugModeView()
         }
-    }
+    //}
 }
 
 struct ARViewContainer: UIViewRepresentable {
@@ -36,6 +38,9 @@ struct ARViewContainer: UIViewRepresentable {
         
         let accessibilityOverlay = UIView(frame: .zero)
         accessibilityOverlay.isAccessibilityElement = true
+        // Enable Direct Interaction
+        arView.accessibilityTraits = [.allowsDirectInteraction]
+        
         accessibilityOverlay.accessibilityLabel = "XR Tetris Game"
         accessibilityOverlay.accessibilityHint = "Swipe left or right to hear game updates"
         arView.addSubview(accessibilityOverlay)
